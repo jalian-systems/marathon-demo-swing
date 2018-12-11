@@ -1,0 +1,46 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: fieldName, value: startButton}
+    created: 1543581021584
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Start}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=29,y=58]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Start}
+    - {name: actionCommand, value: start}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: Start}
+    - {name: fieldName, value: startButton}
+    - {name: accessibleName, value: Start}
+    - {name: size, value: '[width=233,height=26]'}
+    modified: 0
+    name: Start
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame2}
+    - {method: equals, name: type, value: JFrame}
+    created: 1543581027068
+    generalProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: ProgressMonitorDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: ProgressMonitorDemo}
+    - {name: accessibleName, value: ProgressMonitorDemo}
+    - {name: size, value: '[width=291,height=206]'}
+    modified: 0
+    name: ProgressMonitorDemo
+    used: true

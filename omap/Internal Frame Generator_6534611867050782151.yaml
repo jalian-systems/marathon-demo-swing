@@ -1,0 +1,86 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: iconFile, value: Go Bananas}
+    created: 1543572929292
+    generalProperties:
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=636,y=296]'}
+    - {name: buttonIconFile, value: Go Bananas}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JButton}
+    - {name: fieldName, value: lastFocusOwner}
+    - {name: iconFile, value: Go Bananas}
+    - {name: size, value: '[width=70,height=42]'}
+    modified: 1543573555474
+    name: Go Bananas
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JCheckBox}
+    - {method: equals, name: cText, value: Iconifiable}
+    created: 1543572931157
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Iconifiable}
+    - {name: tagName, value: check-box}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: javax.swing.JCheckBox}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: position, value: '[x=605,y=449]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Iconifiable}
+    - {name: actionCommand, value: Iconifiable}
+    - {name: type, value: JCheckBox}
+    - {name: buttonText, value: Iconifiable}
+    - {name: fieldName, value: lastFocusOwner}
+    - {name: accessibleName, value: Iconifiable}
+    - {name: size, value: '[width=83,height=24]'}
+    modified: 1543573571089
+    name: Iconifiable
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: iconFile, value: 'Soccer anyone?'}
+    created: 1543572935497
+    generalProperties:
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=721,y=353]'}
+    - {name: buttonIconFile, value: 'Soccer anyone?'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JButton}
+    - {name: iconFile, value: 'Soccer anyone?'}
+    - {name: size, value: '[width=70,height=42]'}
+    modified: 1543579941426
+    name: Soccer anyone?
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTextField}
+    - {method: equals, name: precedingLabel, value: Frame title}
+    created: 1543572950298
+    generalProperties:
+    - {name: tagName, value: text-field}
+    - {name: indexOfType, value: '0'}
+    - {name: precedingLabel, value: Frame title}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JTextField}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: position, value: '[x=663,y=493]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Frame1}
+    - {name: type, value: JTextField}
+    - {name: fieldName, value: lastFocusOwner}
+    - {name: size, value: '[width=170,height=20]'}
+    modified: 1543573672424
+    name: Frame title
+    used: true

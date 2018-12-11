@@ -1,0 +1,18 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: tree}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1543984761938
+    generalProperties:
+    - {name: tagName, value: tree}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JTree}
+    - {name: component.class.name, value: com.sun.swingset3.demos.tree.TreeDemo$1}
+    - {name: position, value: '[x=570,y=255]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: com.sun.swingset3.demos.tree.TreeDemo$1}
+    - {name: size, value: '[width=779,height=550]'}
+    modified: 0
+    name: tree_0
+    used: true

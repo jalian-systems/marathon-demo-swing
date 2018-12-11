@@ -1,0 +1,40 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: slider}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1543581459507
+    generalProperties:
+    - {name: tagName, value: slider}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JSlider}
+    - {name: component.class.name, value: javax.swing.JSlider}
+    - {name: position, value: '[x=19,y=64]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JSlider}
+    - {name: size, value: '[width=240,height=57]'}
+    modified: 0
+    name: slider_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame2}
+    - {method: equals, name: type, value: JFrame}
+    created: 1543581464748
+    generalProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: SliderDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: SliderDemo}
+    - {name: accessibleName, value: SliderDemo}
+    - {name: size, value: '[width=278,height=308]'}
+    modified: 0
+    name: SliderDemo
+    used: true

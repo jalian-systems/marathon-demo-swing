@@ -1,0 +1,106 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: fieldName, value: btnSelect}
+    created: 1541140154858
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Select image}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=570,y=750]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Select image}
+    - {name: actionCommand, value: Select image}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: Select image}
+    - {name: fieldName, value: btnSelect}
+    - {name: accessibleName, value: Select image}
+    - {name: size, value: '[width=164,height=29]'}
+    modified: 0
+    name: Select image
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JFileChooser}
+    - {method: equals, name: fieldName, value: embeddedChooser}
+    created: 1541140177407
+    generalProperties:
+    - {name: tagName, value: file-chooser}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JFileChooser}
+    - {name: instanceOf, value: javax.swing.JFileChooser}
+    - {name: position, value: '[x=560,y=245]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFileChooser}
+    - {name: fieldName, value: embeddedChooser}
+    - {name: size, value: '[width=800,height=495]'}
+    modified: 0
+    name: embeddedChooser
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: fieldName, value: btnSelectWithPreview}
+    created: 1541140193256
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Select with preview}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '4'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=570,y=784]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Select with preview}
+    - {name: actionCommand, value: Select with preview}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: Select with preview}
+    - {name: fieldName, value: btnSelectWithPreview}
+    - {name: accessibleName, value: Select with preview}
+    - {name: size, value: '[width=164,height=29]'}
+    modified: 0
+    name: Select with preview
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: file-chooser}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1541140225483
+    generalProperties:
+    - {name: component.class.name, value: javax.swing.JFileChooser}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: enabled, value: 'true'}
+    - {name: tagName, value: file-chooser}
+    - {name: size, value: '[width=550,height=400]'}
+    - {name: instanceOf, value: javax.swing.JFileChooser}
+    - {name: type, value: JFileChooser}
+    - {name: indexOfType, value: '0'}
+    modified: 0
+    name: file-chooser_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame1}
+    - {method: equals, name: type, value: JFrame}
+    created: 1541140229482
+    generalProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JFileChooser Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=223]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JFileChooser Demo}
+    - {name: accessibleName, value: JFileChooser Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    modified: 0
+    name: JFileChooser Demo
+    used: true

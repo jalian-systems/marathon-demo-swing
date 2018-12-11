@@ -1,0 +1,102 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: com.sun.swingset3.demos.textfield.JHistoryTextField}
+    - {method: equals, name: fieldName, value: tfHistory}
+    created: 1543820523143
+    generalProperties:
+    - {name: tagName, value: text-field}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.textfield.JHistoryTextField}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: position, value: '[x=579,y=285]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: cat}
+    - {name: type, value: com.sun.swingset3.demos.textfield.JHistoryTextField}
+    - {name: fieldName, value: tfHistory}
+    - {name: size, value: '[width=762,height=20]'}
+    modified: 0
+    name: tfHistory
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: list}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1543820523659
+    generalProperties:
+    - {name: tagName, value: list}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JList}
+    - {name: component.class.name, value: javax.swing.JList}
+    - {name: position, value: '[x=580,y=306]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JList}
+    - {name: size, value: '[width=760,height=54]'}
+    modified: 0
+    name: list_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: fieldName, value: btnGo}
+    created: 1543820524968
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Go}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=654,y=346]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Go}
+    - {name: actionCommand, value: Go}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: Go}
+    - {name: fieldName, value: btnGo}
+    - {name: accessibleName, value: Go}
+    - {name: size, value: '[width=49,height=26]'}
+    modified: 0
+    name: Go
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JPasswordField}
+    - {method: equals, name: fieldName, value: tfPassword1}
+    created: 1543820529718
+    generalProperties:
+    - {name: tagName, value: password-field}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JPasswordField}
+    - {name: instanceOf, value: javax.swing.JPasswordField}
+    - {name: position, value: '[x=579,y=413]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: yellow}
+    - {name: type, value: JPasswordField}
+    - {name: fieldName, value: tfPassword1}
+    - {name: size, value: '[width=224,height=20]'}
+    modified: 0
+    name: tfPassword1
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JPasswordField}
+    - {method: equals, name: fieldName, value: tfPassword2}
+    created: 1543820539313
+    generalProperties:
+    - {name: tagName, value: password-field}
+    - {name: indexOfType, value: '1'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JPasswordField}
+    - {name: instanceOf, value: javax.swing.JPasswordField}
+    - {name: position, value: '[x=808,y=413]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: yellow}
+    - {name: type, value: JPasswordField}
+    - {name: fieldName, value: tfPassword2}
+    - {name: size, value: '[width=224,height=20]'}
+    modified: 0
+    name: tfPassword2
+    used: true

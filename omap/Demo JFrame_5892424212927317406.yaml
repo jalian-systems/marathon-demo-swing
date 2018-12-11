@@ -1,0 +1,136 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Toolbar Button}
+    - {method: equals, name: type, value: JButton}
+    created: 1541255460634
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Toolbar Button}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=169,y=97]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Toolbar Button}
+    - {name: actionCommand, value: Toolbar Button}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: Toolbar Button}
+    - {name: accessibleName, value: Toolbar Button}
+    - {name: size, value: '[width=92,height=18]'}
+    modified: 0
+    name: Toolbar Button
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: accessibleName, value: I'm content but a little blue.}
+    - {method: equals, name: type, value: JLabel}
+    created: 1541255467472
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: I'm content but a little blue.}
+    - {name: tagName, value: label}
+    - {name: labelText, value: 'lbl:I''m content but a little blue.'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JLabel}
+    - {name: instanceOf, value: javax.swing.JLabel}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=157,y=117]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: I'm content but a little blue.}
+    - {name: type, value: JLabel}
+    - {name: accessibleName, value: I'm content but a little blue.}
+    - {name: size, value: '[width=300,height=160]'}
+    modified: 0
+    name: lbl:I'm content but a little blue.
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: File}
+    - {method: equals, name: type, value: JMenu}
+    created: 1541255481157
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: File}
+    - {name: tagName, value: menu}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JMenu}
+    - {name: instanceOf, value: javax.swing.JMenu}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=157,y=73]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: File}
+    - {name: actionCommand, value: File}
+    - {name: type, value: JMenu}
+    - {name: buttonText, value: File}
+    - {name: accessibleName, value: File}
+    - {name: size, value: '[width=42,height=21]'}
+    modified: 0
+    name: File
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame2}
+    - {method: equals, name: type, value: JFrame}
+    created: 1541255489417
+    generalProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: Demo JFrame}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=157,y=51]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: Demo JFrame}
+    - {name: accessibleName, value: Demo JFrame}
+    - {name: size, value: '[width=300,height=250]'}
+    modified: 0
+    name: Demo JFrame
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Save}
+    - {method: equals, name: type, value: JMenuItem}
+    created: 1541255543202
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Save}
+    - {name: tagName, value: menu-item}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: javax.swing.JMenuItem}
+    - {name: instanceOf, value: javax.swing.JMenuItem}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=157,y=118]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Save}
+    - {name: actionCommand, value: Save}
+    - {name: type, value: JMenuItem}
+    - {name: buttonText, value: Save}
+    - {name: accessibleName, value: Save}
+    - {name: size, value: '[width=84,height=19]'}
+    modified: 0
+    name: Save
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Open}
+    - {method: equals, name: type, value: JMenuItem}
+    created: 1541255546958
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Open}
+    - {name: tagName, value: menu-item}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JMenuItem}
+    - {name: instanceOf, value: javax.swing.JMenuItem}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=157,y=99]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Open}
+    - {name: actionCommand, value: Open}
+    - {name: type, value: JMenuItem}
+    - {name: buttonText, value: Open}
+    - {name: accessibleName, value: Open}
+    - {name: size, value: '[width=84,height=19]'}
+    modified: 0
+    name: Open
+    used: true

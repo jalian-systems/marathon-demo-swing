@@ -1,0 +1,115 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Show Input Dialog}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    created: 1541254100717
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Show Input Dialog}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=855,y=356]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Show Input Dialog}
+    - {name: actionCommand, value: Show Input Dialog}
+    - {name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: buttonText, value: Show Input Dialog}
+    - {name: accessibleName, value: Show Input Dialog}
+    - {name: size, value: '[width=209,height=29]'}
+    modified: 0
+    name: Show Input Dialog
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Show Warning Dialog}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    created: 1541254119593
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Show Warning Dialog}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=855,y=400]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Show Warning Dialog}
+    - {name: actionCommand, value: Show Warning Dialog}
+    - {name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: buttonText, value: Show Warning Dialog}
+    - {name: accessibleName, value: Show Warning Dialog}
+    - {name: size, value: '[width=209,height=29]'}
+    modified: 0
+    name: Show Warning Dialog
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Show Message Dialog}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    created: 1541254140148
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Show Message Dialog}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=855,y=444]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Show Message Dialog}
+    - {name: actionCommand, value: Show Message Dialog}
+    - {name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: buttonText, value: Show Message Dialog}
+    - {name: accessibleName, value: Show Message Dialog}
+    - {name: size, value: '[width=209,height=29]'}
+    modified: 0
+    name: Show Message Dialog
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Show Component Dialog}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    created: 1541254153005
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Show Component Dialog}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=855,y=488]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Show Component Dialog}
+    - {name: actionCommand, value: Show Component Dialog}
+    - {name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: buttonText, value: Show Component Dialog}
+    - {name: accessibleName, value: Show Component Dialog}
+    - {name: size, value: '[width=209,height=29]'}
+    modified: 0
+    name: Show Component Dialog
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Show Confirmation Dialog}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    created: 1541254176124
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Show Confirmation Dialog}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '4'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=855,y=532]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Show Confirmation Dialog}
+    - {name: actionCommand, value: Show Confirmation Dialog}
+    - {name: type, value: com.sun.swingset3.demos.optionpane.OptionPaneDemo$7}
+    - {name: buttonText, value: Show Confirmation Dialog}
+    - {name: accessibleName, value: Show Confirmation Dialog}
+    - {name: size, value: '[width=209,height=29]'}
+    modified: 0
+    name: Show Confirmation Dialog
+    used: true

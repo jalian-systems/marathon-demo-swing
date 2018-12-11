@@ -1,0 +1,42 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: accessibleName, value: Maximize}
+    - {method: equals, name: type, value: plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    created: 1543580962774
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Maximize}
+    - {name: tagName, value: no-focus-button}
+    - {name: toolTipText, value: Maximize}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: javax.swing.plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: instanceOf, value: javax.swing.plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=334,y=138]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: accessibleName, value: Maximize}
+    - {name: size, value: '[width=16,height=16]'}
+    modified: 0
+    name: Maximize
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: accessibleName, value: Close}
+    - {method: equals, name: type, value: plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    created: 1543580972904
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Close}
+    - {name: tagName, value: no-focus-button}
+    - {name: toolTipText, value: Close}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.name, value: javax.swing.plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: instanceOf, value: javax.swing.plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=1840,y=108]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: accessibleName, value: Close}
+    - {name: size, value: '[width=16,height=16]'}
+    modified: 0
+    name: Close
+    used: true

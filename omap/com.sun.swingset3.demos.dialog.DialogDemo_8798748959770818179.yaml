@@ -1,0 +1,45 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Show JDialog...}
+    - {method: equals, name: type, value: JButton}
+    created: 1541138986988
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Show JDialog...}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=8,y=53]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Show JDialog...}
+    - {name: actionCommand, value: Show JDialog...}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: Show JDialog...}
+    - {name: accessibleName, value: Show JDialog...}
+    - {name: size, value: '[width=138,height=29]'}
+    modified: 0
+    name: Show JDialog...
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame1}
+    - {method: equals, name: type, value: JFrame}
+    created: 1541138990225
+    generalProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: com.sun.swingset3.demos.dialog.DialogDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=23]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: com.sun.swingset3.demos.dialog.DialogDemo}
+    - {name: accessibleName, value: com.sun.swingset3.demos.dialog.DialogDemo}
+    - {name: size, value: '[width=366,height=196]'}
+    modified: 0
+    name: com.sun.swingset3.demos.dialog.DialogDemo
+    used: true

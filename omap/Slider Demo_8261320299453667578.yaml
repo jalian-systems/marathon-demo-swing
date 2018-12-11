@@ -1,0 +1,62 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: slider}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1543581419036
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Plain}
+    - {name: tagName, value: slider}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JSlider}
+    - {name: instanceOf, value: javax.swing.JSlider}
+    - {name: position, value: '[x=580,y=297]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JSlider}
+    - {name: accessibleName, value: Plain}
+    - {name: size, value: '[width=366,height=16]'}
+    modified: 0
+    name: Plain
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: slider}
+    - {method: equals, name: indexOfType, value: '1'}
+    created: 1543581421691
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Major Ticks}
+    - {name: tagName, value: slider}
+    - {name: indexOfType, value: '1'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JSlider}
+    - {name: instanceOf, value: javax.swing.JSlider}
+    - {name: position, value: '[x=580,y=356]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JSlider}
+    - {name: accessibleName, value: Major Ticks}
+    - {name: size, value: '[width=366,height=27]'}
+    modified: 0
+    name: Major Ticks
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame1}
+    - {method: equals, name: type, value: JFrame}
+    created: 1543581429725
+    generalProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: Slider Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: Slider Demo}
+    - {name: accessibleName, value: Slider Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    modified: 0
+    name: Slider Demo
+    used: true

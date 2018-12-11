@@ -1,0 +1,41 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTree}
+    - {method: equals, name: fieldName, value: tree}
+    created: 1543986654582
+    generalProperties:
+    - {name: tagName, value: tree}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JTree}
+    - {name: instanceOf, value: javax.swing.JTree}
+    - {name: position, value: '[x=297,y=309]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JTree}
+    - {name: fieldName, value: tree}
+    - {name: size, value: '[width=495,height=96]'}
+    modified: 0
+    name: tree
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame1}
+    - {method: equals, name: type, value: JFrame}
+    created: 1544184578478
+    generalProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: TreeDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: TreeDemo}
+    - {name: accessibleName, value: TreeDemo}
+    - {name: size, value: '[width=518,height=347]'}
+    modified: 0
+    name: TreeDemo
+    used: true

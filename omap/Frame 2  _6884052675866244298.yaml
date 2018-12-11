@@ -1,0 +1,21 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: accessibleName, value: Maximize}
+    - {method: equals, name: type, value: plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    created: 1543572953462
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Maximize}
+    - {name: tagName, value: no-focus-button}
+    - {name: toolTipText, value: Maximize}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.name, value: javax.swing.plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: instanceOf, value: javax.swing.plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=1174,y=321]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: plaf.basic.BasicInternalFrameTitlePane$NoFocusButton}
+    - {name: accessibleName, value: Maximize}
+    - {name: size, value: '[width=16,height=16]'}
+    modified: 0
+    name: Maximize
+    used: true

@@ -1,0 +1,136 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame3}
+    - {method: equals, name: type, value: JFrame}
+    created: 1543581482704
+    generalProperties:
+    - {name: name, value: frame3}
+    - {name: accessibleContext.accessibleName, value: Spinner Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: Spinner Demo}
+    - {name: accessibleName, value: Spinner Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    modified: 0
+    name: Spinner Demo
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JSpinner}
+    - {method: equals, name: fieldName, value: rsSpinner}
+    created: 1543821609302
+    generalProperties:
+    - {name: tagName, value: spinner}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JSpinner}
+    - {name: instanceOf, value: javax.swing.JSpinner}
+    - {name: position, value: '[x=1120,y=316]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JSpinner}
+    - {name: fieldName, value: rsSpinner}
+    - {name: size, value: '[width=75,height=20]'}
+    modified: 0
+    name: rsSpinner
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JSpinner}
+    - {method: equals, name: fieldName, value: gsSpinner}
+    created: 1543821611923
+    generalProperties:
+    - {name: tagName, value: spinner}
+    - {name: indexOfType, value: '1'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JSpinner}
+    - {name: instanceOf, value: javax.swing.JSpinner}
+    - {name: position, value: '[x=1120,y=338]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JSpinner}
+    - {name: fieldName, value: gsSpinner}
+    - {name: size, value: '[width=75,height=20]'}
+    modified: 0
+    name: gsSpinner
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JSpinner}
+    - {method: equals, name: fieldName, value: bsSpinner}
+    created: 1543821617022
+    generalProperties:
+    - {name: tagName, value: spinner}
+    - {name: indexOfType, value: '2'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JSpinner}
+    - {name: instanceOf, value: javax.swing.JSpinner}
+    - {name: position, value: '[x=1120,y=360]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JSpinner}
+    - {name: fieldName, value: bsSpinner}
+    - {name: size, value: '[width=75,height=20]'}
+    modified: 0
+    name: bsSpinner
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JSpinner}
+    - {method: equals, name: fieldName, value: iterSpinner}
+    created: 1543821620514
+    generalProperties:
+    - {name: tagName, value: spinner}
+    - {name: indexOfType, value: '6'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JSpinner}
+    - {name: instanceOf, value: javax.swing.JSpinner}
+    - {name: position, value: '[x=1156,y=410]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JSpinner}
+    - {name: fieldName, value: iterSpinner}
+    - {name: size, value: '[width=97,height=20]'}
+    modified: 0
+    name: iterSpinner
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: com.sun.swingset3.demos.spinner.MandelbrotControl$CoordSpinner}
+    - {method: equals, name: fieldName, value: xSpinner}
+    created: 1543821624651
+    generalProperties:
+    - {name: tagName, value: spinner}
+    - {name: indexOfType, value: '7'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.spinner.MandelbrotControl$CoordSpinner}
+    - {name: instanceOf, value: javax.swing.JSpinner}
+    - {name: position, value: '[x=1156,y=432]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: com.sun.swingset3.demos.spinner.MandelbrotControl$CoordSpinner}
+    - {name: fieldName, value: xSpinner}
+    - {name: size, value: '[width=180,height=20]'}
+    modified: 0
+    name: xSpinner
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: com.sun.swingset3.demos.spinner.MandelbrotControl$CoordSpinner}
+    - {method: equals, name: fieldName, value: ySpinner}
+    created: 1543821643362
+    generalProperties:
+    - {name: tagName, value: spinner}
+    - {name: indexOfType, value: '8'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.spinner.MandelbrotControl$CoordSpinner}
+    - {name: instanceOf, value: javax.swing.JSpinner}
+    - {name: position, value: '[x=1156,y=454]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: com.sun.swingset3.demos.spinner.MandelbrotControl$CoordSpinner}
+    - {name: fieldName, value: ySpinner}
+    - {name: size, value: '[width=180,height=20]'}
+    modified: 0
+    name: ySpinner
+    used: true

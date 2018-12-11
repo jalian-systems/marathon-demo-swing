@@ -1,0 +1,63 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTable}
+    - {method: equals, name: fieldName, value: oscarTable}
+    created: 1544160739738
+    generalProperties:
+    - {name: tagName, value: table}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JTable}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: position, value: '[x=10,y=137]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JTable}
+    - {name: fieldName, value: oscarTable}
+    - {name: size, value: '[width=664,height=222040]'}
+    modified: 0
+    name: oscarTable
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JCheckBox}
+    - {method: equals, name: fieldName, value: winnersCheckbox}
+    created: 1544160752199
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Show Only Winners}
+    - {name: tagName, value: check-box}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JCheckBox}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: position, value: '[x=545,y=74]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Show Only Winners}
+    - {name: actionCommand, value: Show Only Winners}
+    - {name: type, value: JCheckBox}
+    - {name: buttonText, value: Show Only Winners}
+    - {name: fieldName, value: winnersCheckbox}
+    - {name: accessibleName, value: Show Only Winners}
+    - {name: size, value: '[width=136,height=24]'}
+    modified: 0
+    name: Show Only Winners
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTextField}
+    - {method: equals, name: fieldName, value: filterField}
+    created: 1544160787098
+    generalProperties:
+    - {name: tagName, value: text-field}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JTextField}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: position, value: '[x=19,y=78]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Sunrise}
+    - {name: type, value: JTextField}
+    - {name: fieldName, value: filterField}
+    - {name: size, value: '[width=268,height=20]'}
+    modified: 0
+    name: filterField
+    used: true

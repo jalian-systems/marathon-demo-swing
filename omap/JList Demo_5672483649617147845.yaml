@@ -1,0 +1,65 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JList}
+    - {method: equals, name: fieldName, value: list}
+    created: 1541225406448
+    generalProperties:
+    - {name: tagName, value: list}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JList}
+    - {name: instanceOf, value: javax.swing.JList}
+    - {name: position, value: '[x=572,y=356]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JList}
+    - {name: fieldName, value: list}
+    - {name: size, value: '[width=230,height=510]'}
+    modified: 0
+    name: list
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Digi}
+    - {method: equals, name: type, value: JCheckBox}
+    created: 1541225431941
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Digi}
+    - {name: tagName, value: check-box}
+    - {name: indexOfType, value: '9'}
+    - {name: component.class.name, value: javax.swing.JCheckBox}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=859,y=569]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Digi}
+    - {name: actionCommand, value: Digi}
+    - {name: type, value: JCheckBox}
+    - {name: buttonText, value: Digi}
+    - {name: accessibleName, value: Digi}
+    - {name: size, value: '[width=58,height=23]'}
+    modified: 0
+    name: Digi
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Devices}
+    - {method: equals, name: type, value: JCheckBox}
+    created: 1541225433879
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Devices}
+    - {name: tagName, value: check-box}
+    - {name: indexOfType, value: '33'}
+    - {name: component.class.name, value: javax.swing.JCheckBox}
+    - {name: instanceOf, value: javax.swing.JCheckBox}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=1110,y=546]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Devices}
+    - {name: actionCommand, value: Devices}
+    - {name: type, value: JCheckBox}
+    - {name: buttonText, value: Devices}
+    - {name: accessibleName, value: Devices}
+    - {name: size, value: '[width=81,height=23]'}
+    modified: 0
+    name: Devices
+    used: true

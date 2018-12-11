@@ -1,0 +1,22 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame2}
+    - {method: equals, name: type, value: JFrame}
+    created: 1544184581624
+    generalProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: TreeIconDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: TreeIconDemo}
+    - {name: accessibleName, value: TreeIconDemo}
+    - {name: size, value: '[width=518,height=347]'}
+    modified: 0
+    name: TreeIconDemo
+    used: true

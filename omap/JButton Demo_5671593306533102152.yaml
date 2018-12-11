@@ -1,0 +1,173 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Do it}
+    - {method: equals, name: type, value: JButton}
+    created: 1540892161832
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Do it}
+    - {name: tagName, value: button}
+    - {name: toolTipText, value: simple button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=65,y=78]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Do it}
+    - {name: actionCommand, value: Do it}
+    - {name: type, value: JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: buttonText, value: Do it}
+    - {name: accessibleName, value: Do it}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: Do it
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Do it again}
+    - {method: equals, name: type, value: JButton}
+    created: 1540892169503
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Do it again}
+    - {name: tagName, value: button}
+    - {name: toolTipText, value: simple button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=46,y=78]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Do it again}
+    - {name: actionCommand, value: Do it again}
+    - {name: type, value: JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: buttonText, value: Do it again}
+    - {name: accessibleName, value: Do it again}
+    - {name: size, value: '[width=113,height=29]'}
+    modified: 0
+    name: Do it again
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: buttonIconFile, value: document-print}
+    - {method: equals, name: type, value: JButton}
+    created: 1540892173833
+    generalProperties:
+    - {name: tagName, value: button}
+    - {name: toolTipText, value: image button}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=179,y=71]'}
+    - {name: buttonIconFile, value: document-print}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: iconFile, value: document-print}
+    - {name: size, value: '[width=48,height=44]'}
+    modified: 0
+    name: document-print
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Find}
+    - {method: equals, name: type, value: JButton}
+    created: 1540892174849
+    generalProperties:
+    - {name: buttonText, value: Find}
+    - {name: buttonIconFile, value: edit-find}
+    - {name: tagName, value: button}
+    - {name: iconFile, value: edit-find}
+    - {name: type, value: JButton}
+    - {name: enabled, value: 'true'}
+    - {name: indexOfType, value: '2'}
+    - {name: actionCommand, value: Find}
+    - {name: accessibleName, value: Find}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: size, value: '[width=69,height=36]'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: toolTipText, value: button with text and image}
+    - {name: accessibleContext.accessibleName, value: Find}
+    - {name: cText, value: Find}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: position, value: '[x=247,y=75]'}
+    modified: 0
+    name: Find
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Go}
+    - {method: equals, name: type, value: JButton}
+    created: 1540892175857
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Go}
+    - {name: tagName, value: button}
+    - {name: toolTipText, value: button with background color}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=336,y=78]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Go}
+    - {name: actionCommand, value: Go}
+    - {name: type, value: JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: buttonText, value: Go}
+    - {name: accessibleName, value: Go}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: Go
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Connect}
+    - {method: equals, name: type, value: JButton}
+    created: 1540892178007
+    generalProperties:
+    - {name: buttonText, value: Connect}
+    - {name: buttonIconFile, value: earth_day}
+    - {name: tagName, value: button}
+    - {name: iconFile, value: earth_day}
+    - {name: type, value: JButton}
+    - {name: enabled, value: 'true'}
+    - {name: indexOfType, value: '4'}
+    - {name: actionCommand, value: Connect}
+    - {name: accessibleName, value: Connect}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: size, value: '[width=61,height=58]'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: toolTipText, value: button with no border}
+    - {name: accessibleContext.accessibleName, value: Connect}
+    - {name: cText, value: Connect}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: position, value: '[x=20,y=173]'}
+    modified: 0
+    name: Connect
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: buttonIconFile, value: redbutton}
+    - {method: equals, name: type, value: JButton}
+    created: 1540892179040
+    generalProperties:
+    - {name: tagName, value: button}
+    - {name: toolTipText, value: button with rollover image}
+    - {name: indexOfType, value: '5'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=97,y=172]'}
+    - {name: buttonIconFile, value: redbutton}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: iconFile, value: redbutton}
+    - {name: size, value: '[width=64,height=60]'}
+    modified: 0
+    name: redbutton
+    used: true

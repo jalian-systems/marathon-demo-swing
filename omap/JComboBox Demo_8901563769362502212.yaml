@@ -1,0 +1,96 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JComboBox}
+    - {method: equals, name: fieldName, value: presetCB}
+    created: 1540894884838
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: 'Presets:'}
+    - {name: labeledBy, value: Presets}
+    - {name: tagName, value: combo-box}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JComboBox}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: position, value: '[x=580,y=296]'}
+    - {name: enabled, value: 'true'}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: type, value: JComboBox}
+    - {name: component.class.simpleName, value: JComboBox}
+    - {name: fieldName, value: presetCB}
+    - {name: accessibleName, value: 'Presets:'}
+    - {name: size, value: '[width=192,height=27]'}
+    modified: 0
+    name: Presets
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JComboBox}
+    - {method: equals, name: fieldName, value: hairCB}
+    created: 1540894890015
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: 'Hair:'}
+    - {name: labeledBy, value: Hair}
+    - {name: tagName, value: combo-box}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: javax.swing.JComboBox}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: position, value: '[x=580,y=369]'}
+    - {name: enabled, value: 'true'}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: type, value: JComboBox}
+    - {name: component.class.simpleName, value: JComboBox}
+    - {name: fieldName, value: hairCB}
+    - {name: accessibleName, value: 'Hair:'}
+    - {name: size, value: '[width=192,height=27]'}
+    modified: 0
+    name: Hair
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JComboBox}
+    - {method: equals, name: fieldName, value: eyesCB}
+    created: 1540894898186
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: 'Eyes & Nose:'}
+    - {name: labeledBy, value: Eyes & Nose}
+    - {name: tagName, value: combo-box}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.name, value: javax.swing.JComboBox}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: position, value: '[x=580,y=427]'}
+    - {name: enabled, value: 'true'}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: type, value: JComboBox}
+    - {name: component.class.simpleName, value: JComboBox}
+    - {name: fieldName, value: eyesCB}
+    - {name: accessibleName, value: 'Eyes & Nose:'}
+    - {name: size, value: '[width=192,height=27]'}
+    modified: 0
+    name: Eyes & Nose
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JComboBox}
+    - {method: equals, name: fieldName, value: mouthCB}
+    created: 1540894903415
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: 'Mouth:'}
+    - {name: labeledBy, value: Mouth}
+    - {name: tagName, value: combo-box}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.name, value: javax.swing.JComboBox}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: position, value: '[x=580,y=485]'}
+    - {name: enabled, value: 'true'}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: type, value: JComboBox}
+    - {name: component.class.simpleName, value: JComboBox}
+    - {name: fieldName, value: mouthCB}
+    - {name: accessibleName, value: 'Mouth:'}
+    - {name: size, value: '[width=192,height=27]'}
+    modified: 0
+    name: Mouth
+    used: true

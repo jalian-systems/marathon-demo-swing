@@ -1,0 +1,18 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: table}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1543817188902
+    generalProperties:
+    - {name: tagName, value: table}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: component.class.name, value: components.TableToolTipsDemo$1}
+    - {name: position, value: '[x=10,y=59]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: components.TableToolTipsDemo$1}
+    - {name: size, value: '[width=500,height=80]'}
+    modified: 0
+    name: table_0
+    used: true

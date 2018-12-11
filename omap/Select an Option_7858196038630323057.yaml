@@ -1,0 +1,25 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: fieldName, value: defaultButton}
+    created: 1541254177858
+    generalProperties:
+    - {name: name, value: OptionPane.button}
+    - {name: accessibleContext.accessibleName, value: 'Yes'}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=1022,y=622]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: 'Yes'}
+    - {name: actionCommand, value: 'Yes'}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: 'Yes'}
+    - {name: fieldName, value: defaultButton}
+    - {name: accessibleName, value: 'Yes'}
+    - {name: size, value: '[width=90,height=29]'}
+    modified: 0
+    name: 'Yes'
+    used: true

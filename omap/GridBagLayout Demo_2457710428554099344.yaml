@@ -1,0 +1,249 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: Backspace}
+    - {method: equals, name: type, value: JButton}
+    created: 1541145341732
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Backspace}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=756,y=335]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Backspace}
+    - {name: actionCommand, value: Backspace}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: Backspace}
+    - {name: accessibleName, value: Backspace}
+    - {name: size, value: '[width=199,height=29]'}
+    modified: 0
+    name: Backspace
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '7'}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    created: 1541145346163
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: '7'}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '2'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=756,y=372]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: '7'}
+    - {name: actionCommand, value: '7'}
+    - {name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    - {name: buttonText, value: '7'}
+    - {name: accessibleName, value: '7'}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: '7'
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '8'}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    created: 1541145347173
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: '8'}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '3'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=839,y=372]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: '8'}
+    - {name: actionCommand, value: '8'}
+    - {name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    - {name: buttonText, value: '8'}
+    - {name: accessibleName, value: '8'}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: '8'
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '5'}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    created: 1541145348231
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: '5'}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '8'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=839,y=409]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: '5'}
+    - {name: actionCommand, value: '5'}
+    - {name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    - {name: buttonText, value: '5'}
+    - {name: accessibleName, value: '5'}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: '5'
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: /}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    created: 1541145349875
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: /}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '5'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=1005,y=372]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: /}
+    - {name: actionCommand, value: /}
+    - {name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    - {name: buttonText, value: /}
+    - {name: accessibleName, value: /}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: /
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: =}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    created: 1541145356398
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: =}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '20'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=1088,y=483]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: =}
+    - {name: actionCommand, value: =}
+    - {name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    - {name: buttonText, value: =}
+    - {name: accessibleName, value: =}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: =
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTextField}
+    - {method: equals, name: fieldName, value: tfScreen}
+    created: 1541145362712
+    generalProperties:
+    - {name: tagName, value: text-field}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JTextField}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: position, value: '[x=756,y=301]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: '157'}
+    - {name: type, value: JTextField}
+    - {name: fieldName, value: tfScreen}
+    - {name: size, value: '[width=407,height=26]'}
+    modified: 0
+    name: tfScreen
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '*'}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    created: 1541145373724
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: '*'}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '10'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=1005,y=409]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: '*'}
+    - {name: actionCommand, value: '*'}
+    - {name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    - {name: buttonText, value: '*'}
+    - {name: accessibleName, value: '*'}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: '*'
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: '1'}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    created: 1541145375373
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: '1'}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '12'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=756,y=446]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: '1'}
+    - {name: actionCommand, value: '1'}
+    - {name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$CharButton}
+    - {name: buttonText, value: '1'}
+    - {name: accessibleName, value: '1'}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: '1'
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: actionCommand, value: sqrt}
+    - {method: equals, name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    created: 1541145388462
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: sqrt}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '11'}
+    - {name: component.class.name, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=1088,y=409]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: sqrt}
+    - {name: actionCommand, value: sqrt}
+    - {name: type, value: com.sun.swingset3.demos.gridbaglayout.Calculator$OperatorButton}
+    - {name: buttonText, value: sqrt}
+    - {name: accessibleName, value: sqrt}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: sqrt
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: frame1}
+    - {method: equals, name: type, value: JFrame}
+    created: 1541145396988
+    generalProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: GridBagLayout Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=223]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: GridBagLayout Demo}
+    - {name: accessibleName, value: GridBagLayout Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    modified: 0
+    name: GridBagLayout Demo
+    used: true

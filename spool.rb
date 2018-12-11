@@ -1,0 +1,27 @@
+$btns = driver.find_elements(:css, 'button')
+driver
+driver.current_url
+driver.title
+$btns = driver.find_elements(:css, 'jbutton')
+$btns = driver.find_elements(:css, 'button')
+$btns = driver.find_elements(:class, 'javax.swing.JButton')
+$btns = driver.find_elements(:type, 'com.sun.swingset3.demos.optionpane.OptionPaneDemo$7')
+$btns = driver.find_elements(:class, 'com.sun.swingset3.demos.optionpane.OptionPaneDemo$7')
+driver.find_elements(:class, 'javax.swing.Compoenent')
+driver.find_elements(:class, 'javax.swing.Component')
+$btns = driver.find_elements(:css, 'button')
+$btns.length
+$btns.length
+$btns = driver.find_elements(:css, 'button')
+$btns.length
+$btns
+$btns[1].click
+with_window("JOptionPane Demo")
+window('JOptionPane Demo')
+$btns = driver.find_elements(:css, 'button')
+$btns[1].click
+$btns = driver.find_elements(:css, 'button')
+$btns = driver.find_elements(:css, 'button')
+driver.title
+driver.switch_to.window(driver.title)
+$btns = driver.find_elements(:css, 'button')

@@ -1,0 +1,85 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: internalFrameIndex2, value: '0'}
+    - {method: equals, name: title, value: Internal Frame Generator}
+    created: 1543572929295
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Internal Frame Generator}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '0'}
+    - {name: component.class.name, value: javax.swing.JInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: position, value: '[x=589,y=274]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JInternalFrame}
+    - {name: title, value: Internal Frame Generator}
+    - {name: accessibleName, value: Internal Frame Generator}
+    - {name: size, value: '[width=250,height=250]'}
+    modified: 0
+    name: Internal Frame Generator:0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: internalFrameIndex2, value: '2'}
+    - {method: equals, name: title, value: 'Frame 1  '}
+    created: 1543572950861
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: 'Frame 1  '}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '2'}
+    - {name: component.class.name, value: javax.swing.JInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: position, value: '[x=879,y=294]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JInternalFrame}
+    - {name: title, value: 'Frame 1  '}
+    - {name: accessibleName, value: 'Frame 1  '}
+    - {name: size, value: '[width=300,height=300]'}
+    modified: 0
+    name: Frame 1  :2
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: internalFrameIndex2, value: '1'}
+    - {method: equals, name: title, value: 'Frame 0  '}
+    created: 1543572952179
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: 'Frame 0  '}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '1'}
+    - {name: component.class.name, value: javax.swing.JInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: position, value: '[x=859,y=274]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JInternalFrame}
+    - {name: title, value: 'Frame 0  '}
+    - {name: accessibleName, value: 'Frame 0  '}
+    - {name: size, value: '[width=300,height=300]'}
+    modified: 0
+    name: Frame 0  :1
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: internalFrameIndex2, value: '3'}
+    - {method: equals, name: title, value: 'Frame 2  '}
+    created: 1543572953462
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: 'Frame 2  '}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: internalFrameIndex2, value: '3'}
+    - {name: position, value: '[x=899,y=314]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JInternalFrame}
+    - {name: title, value: 'Frame 2  '}
+    - {name: fieldName, value: selectedFrame}
+    - {name: accessibleName, value: 'Frame 2  '}
+    - {name: size, value: '[width=300,height=300]'}
+    modified: 0
+    name: Frame 2  :3
+    used: true

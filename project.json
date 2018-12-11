@@ -1,0 +1,49 @@
+{
+  "ace-editor": {},
+  "workspace": {"state": {"dockables": [
+    "Navigator",
+    "Results",
+    "Log",
+    "Output"
+  ]}},
+  "marathon": {},
+  "display": {
+    "iconified": false,
+    "maximized": true,
+    "window.w": 1938,
+    "window.x": -9,
+    "window.h": 1050,
+    "fullScreen": false,
+    "window.y": -9
+  },
+  "navigator": {},
+  "project": {"fixture": "default"},
+  "theme": {},
+  "project-settings": {
+    "marathon.application.vm.arguments": "",
+    "marathon.project.launcher.model": "net.sourceforge.marathon.runtime.RuntimeLauncherModel",
+    "marathon.application.working.dir": "",
+    "marathon.project.name": "Marathonite Demo",
+    "marathon.capture.dir": "%marathon.project.dir%/Modules",
+    "allure.tests.management.pattern": "",
+    "marathon.application.launchtime": "60000",
+    "marathon.application.rubyhome": "",
+    "marathon.suite.dir": "%marathon.project.dir%/TestSuites",
+    "marathon.application.arguments": "",
+    "marathon.test.dir": "%marathon.project.dir%/TestCases",
+    "marathon.story.dir": "%marathon.project.dir%/Stories",
+    "marathon.application.java.home": "",
+    "marathon.checklist.dir": "%marathon.project.dir%/Checklists",
+    "allure.issues.tracker.pattern": "",
+    "marathon.project.script.model": "com.jaliansystems.marathonite.refactor.ruby.MarathonITERubyScriptModel",
+    "marathon.data.dir": "%marathon.project.dir%/TestData",
+    "marathon.application.mainclass": "components.Main",
+    "marathon.project.description": "",
+    "marathon.fixture.dir": "%marathon.project.dir%/Fixtures",
+    "marathon.issue.dir": "%marathon.project.dir%/Issues",
+    "marathon.feature.dir": "%marathon.project.dir%/Features",
+    "marathon.application.classpath": "%marathon.project.dir%/lib/marathon-test-helpers-5.2.2.0.jar;%marathon.project.dir%/lib/swingset3/SwingSet3.jar",
+    "marathon.application.rubypath": ""
+  },
+  "testrunner": {}
+}

@@ -1,0 +1,45 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JColorChooser}
+    - {method: equals, name: fieldName, value: chooserPane}
+    created: 1540894125642
+    generalProperties:
+    - {name: tagName, value: color-chooser}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JColorChooser}
+    - {name: instanceOf, value: javax.swing.JColorChooser}
+    - {name: position, value: '[x=616,y=338]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JColorChooser}
+    - {name: component.class.simpleName, value: JColorChooser}
+    - {name: fieldName, value: chooserPane}
+    - {name: size, value: '[width=688,height=375]'}
+    modified: 0
+    name: chooserPane
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JButton}
+    - {method: equals, name: fieldName, value: defaultButton}
+    created: 1540894126011
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: OK}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=835,y=718]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: OK}
+    - {name: actionCommand, value: OK}
+    - {name: type, value: JButton}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: buttonText, value: OK}
+    - {name: fieldName, value: defaultButton}
+    - {name: accessibleName, value: OK}
+    - {name: size, value: '[width=75,height=29]'}
+    modified: 0
+    name: OK
+    used: true

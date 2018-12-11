@@ -1,0 +1,1013 @@
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame0}
+    - {name: accessibleContext.accessibleName, value: Demo Programs}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: components.Main}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=23]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: components.Main}
+    - {name: oMapClassName, value: components.Main}
+    - {name: component.class.simpleName, value: Main}
+    - {name: title, value: Demo Programs}
+    - {name: accessibleName, value: Demo Programs}
+    - {name: size, value: '[width=377,height=162]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: components.Main}
+    containerTitles: [Demo Programs]
+    created: 1540892158320
+    fileName: Demo Programs_3867971485738954818.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JButton Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=23]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: component.class.simpleName, value: JFrame}
+    - {name: title, value: JButton Demo}
+    - {name: accessibleName, value: JButton Demo}
+    - {name: size, value: '[width=458,height=222]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JButton Demo}
+    containerTitles: [JButton Demo]
+    created: 1540892161832
+    fileName: JButton Demo_5671593306533102152.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JColorChooser Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=223]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: component.class.simpleName, value: JFrame}
+    - {name: title, value: JColorChooser Demo}
+    - {name: accessibleName, value: JColorChooser Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JColorChooser Demo}
+    containerTitles: [JColorChooser Demo]
+    created: 1540894119226
+    fileName: JColorChooser Demo_6540054755690008639.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: dialog0}
+    - {name: accessibleContext.accessibleName, value: Choose a Color}
+    - {name: tagName, value: color-chooser-dialog}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.ColorChooserDialog}
+    - {name: instanceOf, value: javax.swing.ColorChooserDialog}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=616,y=316]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: ColorChooserDialog}
+    - {name: oMapClassName, value: javax.swing.ColorChooserDialog}
+    - {name: component.class.simpleName, value: ColorChooserDialog}
+    - {name: title, value: Choose a Color}
+    - {name: accessibleName, value: Choose a Color}
+    - {name: size, value: '[width=688,height=436]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: javax.swing.ColorChooserDialog}
+    containerTitles: [Choose a Color]
+    created: 1540894125642
+    fileName: Choose a Color_3826449741182173687.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JComboBox Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=223]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: component.class.simpleName, value: JFrame}
+    - {name: title, value: JComboBox Demo}
+    - {name: accessibleName, value: JComboBox Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JComboBox Demo}
+    containerTitles: [JComboBox Demo]
+    created: 1540894884838
+    fileName: JComboBox Demo_8901563769362502212.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: dialog0}
+    - {name: accessibleContext.accessibleName, value: Demo JDialog}
+    - {name: tagName, value: dialog}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=160,y=51]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JDialog}
+    - {name: title, value: Demo JDialog}
+    - {name: accessibleName, value: Demo JDialog}
+    - {name: size, value: '[width=200,height=162]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JDialog}
+    - {method: equals, name: title, value: Demo JDialog}
+    containerTitles: [Demo JDialog]
+    created: 1541138985206
+    fileName: Demo JDialog_2790643692964464962.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: com.sun.swingset3.demos.dialog.DialogDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=23]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: com.sun.swingset3.demos.dialog.DialogDemo}
+    - {name: accessibleName, value: com.sun.swingset3.demos.dialog.DialogDemo}
+    - {name: size, value: '[width=366,height=196]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: com.sun.swingset3.demos.dialog.DialogDemo}
+    containerTitles: [com.sun.swingset3.demos.dialog.DialogDemo]
+    created: 1541138986988
+    fileName: com.sun.swingset3.demos.dialog.DialogDemo_8798748959770818179.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JFileChooser Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=223]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JFileChooser Demo}
+    - {name: accessibleName, value: JFileChooser Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JFileChooser Demo}
+    containerTitles: [JFileChooser Demo]
+    created: 1541140154858
+    fileName: JFileChooser Demo_2517964038948550509.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: GridBagLayout Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=223]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: GridBagLayout Demo}
+    - {name: accessibleName, value: GridBagLayout Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: GridBagLayout Demo}
+    containerTitles: [GridBagLayout Demo]
+    created: 1541145341732
+    fileName: GridBagLayout Demo_2457710428554099344.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JList Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=274]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JList Demo}
+    - {name: accessibleName, value: JList Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JList Demo}
+    containerTitles: [JList Demo]
+    created: 1541225406448
+    fileName: JList Demo_5672483649617147845.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JOptionPane Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=274]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JOptionPane Demo}
+    - {name: accessibleName, value: JOptionPane Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JOptionPane Demo}
+    containerTitles: [JOptionPane Demo]
+    created: 1541254100717
+    fileName: JOptionPane Demo_1338126248600307323.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: dialog0}
+    - {name: accessibleContext.accessibleName, value: Input}
+    - {name: tagName, value: dialog}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=765,y=501]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JDialog}
+    - {name: oMapClassName, value: javax.swing.JOptionPane#Dialog_3_2}
+    - {name: title, value: Input}
+    - {name: accessibleName, value: Input}
+    - {name: size, value: '[width=389,height=167]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: javax.swing.JOptionPane#Dialog_3_2}
+    containerTitles: [Input]
+    created: 1541254106552
+    fileName: Input_5156521137353182434.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: dialog1}
+    - {name: accessibleContext.accessibleName, value: Message}
+    - {name: tagName, value: dialog}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=755,y=501]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JDialog}
+    - {name: oMapClassName, value: javax.swing.JOptionPane#Dialog_1_-1}
+    - {name: title, value: Message}
+    - {name: accessibleName, value: Message}
+    - {name: size, value: '[width=410,height=167]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: javax.swing.JOptionPane#Dialog_1_-1}
+    containerTitles: [Message, Component Dialog Example, Progress...]
+    created: 1541254114158
+    fileName: Message_6558123801896809970.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: dialog2}
+    - {name: accessibleContext.accessibleName, value: Warning Dialog Example}
+    - {name: tagName, value: dialog}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=683,y=457]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JDialog}
+    - {name: oMapClassName, value: javax.swing.JOptionPane#Dialog_2_-1}
+    - {name: title, value: Warning Dialog Example}
+    - {name: accessibleName, value: Warning Dialog Example}
+    - {name: size, value: '[width=554,height=256]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: javax.swing.JOptionPane#Dialog_2_-1}
+    containerTitles: [Warning Dialog Example]
+    created: 1541254138920
+    fileName: Warning Dialog Example_3652722622398193152.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: dialog6}
+    - {name: accessibleContext.accessibleName, value: Select an Option}
+    - {name: tagName, value: dialog}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=786,y=501]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JDialog}
+    - {name: oMapClassName, value: javax.swing.JOptionPane#Dialog_3_1}
+    - {name: title, value: Select an Option}
+    - {name: accessibleName, value: Select an Option}
+    - {name: size, value: '[width=347,height=167]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: javax.swing.JOptionPane#Dialog_3_1}
+    containerTitles: [Select an Option]
+    created: 1541254177857
+    fileName: Select an Option_7858196038630323057.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: Demo JFrame}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=157,y=51]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: Demo JFrame}
+    - {name: accessibleName, value: Demo JFrame}
+    - {name: size, value: '[width=300,height=250]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: Demo JFrame}
+    containerTitles: [Demo JFrame]
+    created: 1541255460634
+    fileName: Demo JFrame_5892424212927317406.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: com.sun.swingset3.demos.frame.FrameDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=23]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: com.sun.swingset3.demos.frame.FrameDemo}
+    - {name: accessibleName, value: com.sun.swingset3.demos.frame.FrameDemo}
+    - {name: size, value: '[width=463,height=284]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: com.sun.swingset3.demos.frame.FrameDemo}
+    containerTitles: [com.sun.swingset3.demos.frame.FrameDemo]
+    created: 1541255492060
+    fileName: com.sun.swingset3.demos.frame.FrameDemo_2949260864452021140.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JEditorPane Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=223]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JEditorPane Demo}
+    - {name: accessibleName, value: JEditorPane Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JEditorPane Demo}
+    containerTitles: [JEditorPane Demo]
+    created: 1541419835137
+    fileName: JEditorPane Demo_6274294413234937684.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: com.sun.swingset3.demos.window.WindowDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: com.sun.swingset3.demos.window.WindowDemo}
+    - {name: accessibleName, value: com.sun.swingset3.demos.window.WindowDemo}
+    - {name: size, value: '[width=429,height=261]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: com.sun.swingset3.demos.window.WindowDemo}
+    containerTitles: [com.sun.swingset3.demos.window.WindowDemo]
+    created: 1543571992576
+    fileName: com.sun.swingset3.demos.window.WindowDemo_867294597327777405.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: accessibleContext.accessibleName, value: Internal Frame Generator}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '0'}
+    - {name: component.class.name, value: javax.swing.JInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: position, value: '[x=589,y=274]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JInternalFrame}
+    - {name: title, value: Internal Frame Generator}
+    - {name: accessibleName, value: Internal Frame Generator}
+    - {name: size, value: '[width=250,height=250]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JInternalFrame}
+    - {method: equals, name: title, value: Internal Frame Generator}
+    containerTitles: [Internal Frame Generator]
+    created: 1543572929292
+    fileName: Internal Frame Generator_6534611867050782151.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JInternalFrame Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JInternalFrame Demo}
+    - {name: accessibleName, value: JInternalFrame Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JInternalFrame Demo}
+    containerTitles: [JInternalFrame Demo]
+    created: 1543572929295
+    fileName: JInternalFrame Demo_3469878802236255009.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: accessibleContext.accessibleName, value: 'Frame 1  '}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '2'}
+    - {name: component.class.name, value: javax.swing.JInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: position, value: '[x=879,y=294]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JInternalFrame}
+    - {name: title, value: 'Frame 1  '}
+    - {name: accessibleName, value: 'Frame 1  '}
+    - {name: size, value: '[width=300,height=300]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JInternalFrame}
+    - {method: equals, name: title, value: 'Frame 1  '}
+    containerTitles: ['Frame 1  ']
+    created: 1543572950860
+    fileName: Frame 1  _9095820706917429918.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: accessibleContext.accessibleName, value: 'Frame 0  '}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '1'}
+    - {name: component.class.name, value: javax.swing.JInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: position, value: '[x=859,y=274]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JInternalFrame}
+    - {name: title, value: 'Frame 0  '}
+    - {name: accessibleName, value: 'Frame 0  '}
+    - {name: size, value: '[width=300,height=300]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JInternalFrame}
+    - {method: equals, name: title, value: 'Frame 0  '}
+    containerTitles: ['Frame 0  ']
+    created: 1543572952177
+    fileName: Frame 0  _7873720722089800140.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: accessibleContext.accessibleName, value: 'Frame 2  '}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: internalFrameIndex2, value: '3'}
+    - {name: position, value: '[x=899,y=314]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JInternalFrame}
+    - {name: title, value: 'Frame 2  '}
+    - {name: fieldName, value: selectedFrame}
+    - {name: accessibleName, value: 'Frame 2  '}
+    - {name: size, value: '[width=300,height=300]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JInternalFrame}
+    - {method: equals, name: title, value: 'Frame 2  '}
+    containerTitles: ['Frame 2  ']
+    created: 1543572953461
+    fileName: Frame 2  _6884052675866244298.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: accessibleContext.accessibleName, value: 'Document #1'}
+    - {name: tagName, value: internal-frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: components.MyInternalFrame}
+    - {name: instanceOf, value: javax.swing.JInternalFrame}
+    - {name: internalFrameIndex2, value: '0'}
+    - {name: position, value: '[x=85,y=131]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: components.MyInternalFrame}
+    - {name: oMapClassName, value: components.MyInternalFrame}
+    - {name: title, value: 'Document #1'}
+    - {name: accessibleName, value: 'Document #1'}
+    - {name: size, value: '[width=300,height=300]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: components.MyInternalFrame}
+    containerTitles: ['Document #1']
+    created: 1543580962773
+    fileName: 'Document #1_6084957599432047901.yaml'
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: InternalFrameDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: components.InternalFrameDemo}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=50,y=50]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: components.InternalFrameDemo}
+    - {name: oMapClassName, value: components.InternalFrameDemo}
+    - {name: title, value: InternalFrameDemo}
+    - {name: accessibleName, value: InternalFrameDemo}
+    - {name: size, value: '[width=1820,height=980]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: components.InternalFrameDemo}
+    containerTitles: [InternalFrameDemo]
+    created: 1543580962776
+    fileName: InternalFrameDemo_7318379260665926023.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: ProgressBarDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: ProgressBarDemo}
+    - {name: accessibleName, value: ProgressBarDemo}
+    - {name: size, value: '[width=291,height=216]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: ProgressBarDemo}
+    containerTitles: [ProgressBarDemo]
+    created: 1543581003718
+    fileName: ProgressBarDemo_8630850754378181310.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: ProgressMonitorDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: ProgressMonitorDemo}
+    - {name: accessibleName, value: ProgressMonitorDemo}
+    - {name: size, value: '[width=291,height=206]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: ProgressMonitorDemo}
+    containerTitles: [ProgressMonitorDemo]
+    created: 1543581021584
+    fileName: ProgressMonitorDemo_2289725286294608628.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame3}
+    - {name: accessibleContext.accessibleName, value: ProgressBar Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: ProgressBar Demo}
+    - {name: accessibleName, value: ProgressBar Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: ProgressBar Demo}
+    containerTitles: [ProgressBar Demo]
+    created: 1543581045074
+    fileName: ProgressBar Demo_7724440529139782901.yaml
+    modified: 1544184635528
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: Slider Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: Slider Demo}
+    - {name: accessibleName, value: Slider Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: Slider Demo}
+    containerTitles: [Slider Demo]
+    created: 1543581419036
+    fileName: Slider Demo_8261320299453667578.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: SliderDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: SliderDemo}
+    - {name: accessibleName, value: SliderDemo}
+    - {name: size, value: '[width=278,height=308]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: SliderDemo}
+    containerTitles: [SliderDemo]
+    created: 1543581459507
+    fileName: SliderDemo_2691394783161613684.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame3}
+    - {name: accessibleContext.accessibleName, value: Spinner Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: Spinner Demo}
+    - {name: accessibleName, value: Spinner Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: Spinner Demo}
+    containerTitles: [Spinner Demo]
+    created: 1543581482704
+    fileName: Spinner Demo_2813954040292896136.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: ToolTips Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: ToolTips Demo}
+    - {name: accessibleName, value: ToolTips Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: ToolTips Demo}
+    containerTitles: [ToolTips Demo]
+    created: 1543817056008
+    fileName: ToolTips Demo_2863419832354520626.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: TableToolTipsDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: TableToolTipsDemo}
+    - {name: accessibleName, value: TableToolTipsDemo}
+    - {name: size, value: '[width=536,height=140]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: TableToolTipsDemo}
+    containerTitles: [TableToolTipsDemo]
+    created: 1543817188902
+    fileName: TableToolTipsDemo_1735772161729176776.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: TextField Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: TextField Demo}
+    - {name: accessibleName, value: TextField Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: TextField Demo}
+    containerTitles: [TextField Demo]
+    created: 1543820523141
+    fileName: TextField Demo_8743762778287039910.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: TextFieldDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: components.TextFieldDemo}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: components.TextFieldDemo}
+    - {name: oMapClassName, value: components.TextFieldDemo}
+    - {name: title, value: TextFieldDemo}
+    - {name: accessibleName, value: TextFieldDemo}
+    - {name: size, value: '[width=492,height=336]'}
+    containerRecognitionProperties:
+    - {method: equals, name: oMapClassName, value: components.TextFieldDemo}
+    containerTitles: [TextFieldDemo]
+    created: 1543820587264
+    fileName: TextFieldDemo_3956741340722238331.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: ToggleButtons Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: ToggleButtons Demo}
+    - {name: accessibleName, value: ToggleButtons Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: ToggleButtons Demo}
+    containerTitles: [ToggleButtons Demo]
+    created: 1543822250314
+    fileName: ToggleButtons Demo_2611320631846611274.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JTabbedPane Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JTabbedPane Demo}
+    - {name: accessibleName, value: JTabbedPane Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JTabbedPane Demo}
+    containerTitles: [JTabbedPane Demo]
+    created: 1543823414155
+    fileName: JTabbedPane Demo_7331205089992220630.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JScrollPane Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JScrollPane Demo}
+    - {name: accessibleName, value: JScrollPane Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JScrollPane Demo}
+    containerTitles: [JScrollPane Demo]
+    created: 1543823506562
+    fileName: JScrollPane Demo_8521792913792412241.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: ScrollDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: ScrollDemo}
+    - {name: accessibleName, value: ScrollDemo}
+    - {name: size, value: '[width=358,height=337]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: ScrollDemo}
+    containerTitles: [ScrollDemo]
+    created: 1543823520764
+    fileName: ScrollDemo_1675551253350325017.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JTree Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JTree Demo}
+    - {name: accessibleName, value: JTree Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JTree Demo}
+    containerTitles: [JTree Demo]
+    created: 1543984761937
+    fileName: JTree Demo_348255902113412979.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: TreeDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=286,y=269]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: TreeDemo}
+    - {name: accessibleName, value: TreeDemo}
+    - {name: size, value: '[width=518,height=347]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: TreeDemo}
+    containerTitles: [TreeDemo]
+    created: 1543986654581
+    fileName: TreeDemo_2953274825517304094.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JSplitPane Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=560,y=216]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JSplitPane Demo}
+    - {name: accessibleName, value: JSplitPane Demo}
+    - {name: size, value: '[width=800,height=600]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JSplitPane Demo}
+    containerTitles: [JSplitPane Demo]
+    created: 1543987154129
+    fileName: JSplitPane Demo_2342600065167830343.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: JTable Demo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: JTable Demo}
+    - {name: accessibleName, value: JTable Demo}
+    - {name: size, value: '[width=700,height=400]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: JTable Demo}
+    containerTitles: [JTable Demo]
+    created: 1544160739725
+    fileName: JTable Demo_3774456077632600194.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame1}
+    - {name: accessibleContext.accessibleName, value: TableDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: TableDemo}
+    - {name: accessibleName, value: TableDemo}
+    - {name: size, value: '[width=536,height=140]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: TableDemo}
+    containerTitles: [TableDemo]
+    created: 1544164001171
+    fileName: TableDemo_3601434416878977427.yaml
+    modified: 1544184635529
+- !!net.sourceforge.marathon.objectmap.OMapContainer
+    containerGeneralProperties:
+    - {name: name, value: frame2}
+    - {name: accessibleContext.accessibleName, value: TreeIconDemo}
+    - {name: tagName, value: frame}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JFrame}
+    - {name: instanceOf, value: javax.swing.JFrame}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=0,y=0]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JFrame}
+    - {name: title, value: TreeIconDemo}
+    - {name: accessibleName, value: TreeIconDemo}
+    - {name: size, value: '[width=518,height=347]'}
+    containerRecognitionProperties:
+    - {method: equals, name: component.class.name, value: javax.swing.JFrame}
+    - {method: equals, name: title, value: TreeIconDemo}
+    containerTitles: [TreeIconDemo]
+    created: 1544184581597
+    fileName: TreeIconDemo_6137664101992233544.yaml
+    modified: 1544184635529

@@ -1,0 +1,44 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTabbedPane}
+    - {method: equals, name: fieldName, value: tabbedpane}
+    created: 1543823414155
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Miranda}
+    - {name: tagName, value: tabbed-pane}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JTabbedPane}
+    - {name: instanceOf, value: javax.swing.JTabbedPane}
+    - {name: position, value: '[x=569,y=288]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JTabbedPane}
+    - {name: fieldName, value: tabbedpane}
+    - {name: size, value: '[width=782,height=519]'}
+    modified: 0
+    name: tabbedpane
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JRadioButton}
+    - {method: equals, name: fieldName, value: left}
+    created: 1544158966276
+    generalProperties:
+    - {name: accessibleContext.accessibleName, value: Left}
+    - {name: tagName, value: radio-button}
+    - {name: indexOfType, value: '1'}
+    - {name: component.class.name, value: javax.swing.JRadioButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JRadioButton}
+    - {name: position, value: '[x=943,y=259]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: Left}
+    - {name: actionCommand, value: Left}
+    - {name: type, value: JRadioButton}
+    - {name: buttonText, value: Left}
+    - {name: fieldName, value: left}
+    - {name: accessibleName, value: Left}
+    - {name: size, value: '[width=47,height=24]'}
+    modified: 0
+    name: Left
+    used: true

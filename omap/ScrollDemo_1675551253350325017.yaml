@@ -1,0 +1,18 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: scroll-pane}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1543823520764
+    generalProperties:
+    - {name: tagName, value: scroll-pane}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JScrollPane}
+    - {name: component.class.name, value: javax.swing.JScrollPane}
+    - {name: position, value: '[x=29,y=58]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JScrollPane}
+    - {name: size, value: '[width=300,height=250]'}
+    modified: 0
+    name: scroll-pane_0
+    used: true

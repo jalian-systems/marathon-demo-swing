@@ -1,0 +1,37 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: list}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1540892158323
+    generalProperties:
+    - {name: tagName, value: list}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JList}
+    - {name: instanceOf, value: javax.swing.JList}
+    - {name: position, value: '[x=2,y=47]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JList}
+    - {name: component.class.simpleName, value: JList}
+    - {name: size, value: '[width=358,height=1445]'}
+    modified: 0
+    name: list_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: metal-scroll-button}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1543987143420
+    generalProperties:
+    - {name: tagName, value: metal-scroll-button}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.plaf.metal.MetalScrollButton}
+    - {name: instanceOf, value: javax.swing.plaf.metal.MetalScrollButton}
+    - {name: position, value: '[x=364,y=168]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: plaf.metal.MetalScrollButton}
+    - {name: size, value: '[width=15,height=15]'}
+    modified: 0
+    name: metal-scroll-button_0
+    used: true

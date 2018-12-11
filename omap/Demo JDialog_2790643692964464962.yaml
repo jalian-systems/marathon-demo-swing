@@ -1,0 +1,22 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: dialog0}
+    - {method: equals, name: type, value: JDialog}
+    created: 1541138985207
+    generalProperties:
+    - {name: name, value: dialog0}
+    - {name: accessibleContext.accessibleName, value: Demo JDialog}
+    - {name: tagName, value: dialog}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=160,y=51]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JDialog}
+    - {name: title, value: Demo JDialog}
+    - {name: accessibleName, value: Demo JDialog}
+    - {name: size, value: '[width=200,height=162]'}
+    modified: 0
+    name: Demo JDialog
+    used: true

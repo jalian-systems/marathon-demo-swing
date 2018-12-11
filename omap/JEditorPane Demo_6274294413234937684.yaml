@@ -1,0 +1,19 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JEditorPane}
+    - {method: equals, name: fieldName, value: html}
+    created: 1541419835139
+    generalProperties:
+    - {name: tagName, value: editor-pane}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JEditorPane}
+    - {name: instanceOf, value: javax.swing.JEditorPane}
+    - {name: position, value: '[x=562,y=-308]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JEditorPane}
+    - {name: fieldName, value: html}
+    - {name: size, value: '[width=781,height=1129]'}
+    modified: 0
+    name: html
+    used: true

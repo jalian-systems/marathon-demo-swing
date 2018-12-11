@@ -1,0 +1,21 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: type, value: JTextField}
+    - {method: equals, name: fieldName, value: entry}
+    created: 1543820587264
+    generalProperties:
+    - {name: tagName, value: text-field}
+    - {name: indexOfType, value: '0'}
+    - {name: precedingLabel, value: Enter text to search}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: component.class.name, value: javax.swing.JTextField}
+    - {name: instanceOf, value: javax.swing.JTextField}
+    - {name: position, value: '[x=148,y=50]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: wonder}
+    - {name: type, value: JTextField}
+    - {name: fieldName, value: entry}
+    - {name: size, value: '[width=323,height=20]'}
+    modified: 0
+    name: Enter text to search
+    used: true

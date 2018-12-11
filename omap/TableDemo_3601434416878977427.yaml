@@ -1,0 +1,36 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: table}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544164001172
+    generalProperties:
+    - {name: tagName, value: table}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JTable}
+    - {name: component.class.name, value: javax.swing.JTable}
+    - {name: position, value: '[x=10,y=59]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JTable}
+    - {name: size, value: '[width=500,height=80]'}
+    modified: 0
+    name: table_0
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: tagName, value: scroll-pane}
+    - {method: equals, name: indexOfType, value: '0'}
+    created: 1544164052278
+    generalProperties:
+    - {name: tagName, value: scroll-pane}
+    - {name: indexOfType, value: '0'}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JScrollPane}
+    - {name: component.class.name, value: javax.swing.JScrollPane}
+    - {name: position, value: '[x=9,y=38]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JScrollPane}
+    - {name: size, value: '[width=518,height=93]'}
+    modified: 0
+    name: scroll-pane_0
+    used: true

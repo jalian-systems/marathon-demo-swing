@@ -1,0 +1,48 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: OptionPane.button}
+    - {method: equals, name: type, value: JButton}
+    created: 1541254138920
+    generalProperties:
+    - {name: name, value: OptionPane.button}
+    - {name: accessibleContext.accessibleName, value: OK}
+    - {name: tagName, value: button}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: position, value: '[x=1137,y=667]'}
+    - {name: enabled, value: 'true'}
+    - {name: cText, value: OK}
+    - {name: actionCommand, value: OK}
+    - {name: type, value: JButton}
+    - {name: buttonText, value: OK}
+    - {name: fieldName, value: defaultButton}
+    - {name: accessibleName, value: OK}
+    - {name: size, value: '[width=79,height=29]'}
+    modified: 0
+    name: OK
+    used: true
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: dialog3}
+    - {method: equals, name: type, value: JDialog}
+    created: 1543820421873
+    generalProperties:
+    - {name: name, value: dialog3}
+    - {name: accessibleContext.accessibleName, value: Warning Dialog Example}
+    - {name: tagName, value: dialog}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.name, value: javax.swing.JDialog}
+    - {name: instanceOf, value: javax.swing.JDialog}
+    - {name: internalFrameIndex2, value: '-1'}
+    - {name: position, value: '[x=739,y=404]'}
+    - {name: enabled, value: 'true'}
+    - {name: type, value: JDialog}
+    - {name: oMapClassName, value: javax.swing.JOptionPane#Dialog_2_-1}
+    - {name: title, value: Warning Dialog Example}
+    - {name: accessibleName, value: Warning Dialog Example}
+    - {name: size, value: '[width=441,height=252]'}
+    modified: 0
+    name: Warning Dialog Example
+    used: true
