@@ -1,46 +1,44 @@
-# marathon-demo-swing
-Demo application based on Swing for Marathon
+# Marathon Swing Demo
 
-    The swing components are as mentioned below :
 
-    1) Button - Button click and other assertions on the button.
 
-    2)ColorChooser - Finding the color-chooser component and selecting different colors.
+### Description
+**Marathon Testing** tool is opensource and used to test Java Swing/ Java FX applications.This project is a demo project to test SwingSet3 (Swing Application). Marathon uses Selenium commands for testing the application.
 
-    3)Combo-box - Finding the combo-box component and selecting different option from the combo-box.
+**Marathon Swing Demo** contains list of testcases for each swing component to test using marathon commands and also advanced ways.The test cases are written in Ruby language.
 
-    4)Dialog - Finding the dialog component and click on the dialog window button.
+## How to use?
+1. Download zip file or clone the project into a folder.
+2. Download **Marathon** from [here](https://sourceforge.net/projects/marathonman)
+3. Extract the zip into a folder to install. Marathon requires Java 1.8 to run.
+4. Run the application using **marathon.bat** file for **Windows** and **marathon.sh** for **Linux/mac OS** from terminal.
+5. **Marathon Project Selection** window opens and browse for the marathon-swing-demo project cloned from github.
 
-    5)EditorPane - Getting the editor pane and click the links in it.
+![Marathon Application Screen Shot](swing.png)
 
-    6)Frame - From the frame component , explore various options present and click on the show frame button.
+## Test Cases
+The following are the test cases in this project.
 
-    7)Grid - Get the grid component and performing various operations on the buttons present in it.
-
-    8)Internal Frame - Get the component and explore various checkboxes and buttons present in it.
-
-    9)List - Get all the list items and perform click action.
-
-    10)Option Pane - Get the component and explore various types of dialogs and their functionalities.
-
-    11)Progress Bar - Track the progress by clicking on the buttons present in it.
-
-    12)Slider - Adjust the values using the slider and assert them.
-
-    13)Spinner - Increment or decrement the values using the spinner and assert them.
-
-    14)Split Pane - Perform Horizontal or vertical split in the split pane.
-
-    15)Tabbed Pane - Select different tabs by using their index and assert them.
-
-    16)Table - Get the table and perform various operations on the table data using filters.
-
-    17)Table-1 - Get the table , edit the table data and assert them for new values.
-
-    18)TextField - Find the text fields and enter values for the same. Assert the text field values.
-
-    19)Toggle-Buttons - Perform click operation on the radio buttons and checkboxes.
-
-    20)Tree - Get the root tree node and all the tree nodes and perform double click on them.
-
-    21)Window - Perform click action on the show window button and close the window.
+Component | Test Case Name <img width=100/> | Notes <img width=200/>
+--- | --- | ---
+*Button* | `basic/button.rb`<br />`advanced/button.rb` | 
+*Color chooser* | `basic/colorchooser.rb`<br />`advanced/colorchooser.rb` |
+*Combo box* | `basic/combobox.rb`<br />`advanced/combobox.rb` |
+*Dialog* | `basic/dialog.rb`<br />`advanced/dialog.rb` |
+*Editor pane* | `basic/editorpane.rb`<br />`advanced/editorpane.rb` |
+*Frame* | `basic/frame.rb`<br />`advanced/frame.rb` |
+*Grid Layout* | `basic/gridbag.rb`<br />`advanced/gridbag.rb` |
+*Internal Farme* | `basic/internalFrame.rb`<br />`advanced/internalFrame.rb` |
+*List* | `basic/list.rb`<br />`advanced/list.rb` |
+*Option Pane* | `basic/optionPane.rb`<br />`advanced/optionPane.rb` |
+*Progress Bar* | `basic/progressBar.rb`<br />`advanced/progressBar.rb` |
+*Slider* | `basic/slider.rb`<br />`advanced/slider.rb` |
+*Spinner* | `basic/spinner.rb`<br />`advanced/spinner.rb` |
+*Split Pane* | `basic/splitPane.rb`<br />`advanced/splitPane.rb` |
+*Tabbed Pane* | `basic/tabbedPane.rb`<br />`advanced/tabbedPane.rb` |
+*Table View(Components.main)* | `basic/table-1.rb`<br />`advanced/table-1.rb` |
+*Table View* | `basic/table.rb`<br />`advanced/table.rb` |
+*Text Field* | `basic/textField.rb`<br />`advanced/textField.rb` |
+*Toggle Button* | `basic/toggleButtons.rb`<br />`advanced/toggleButtons.rb` |
+*Tree* | `basic/tree.rb`<br />`advanced/tree.rb` |
+*Window* | `basic/window.rb`<br />`advanced/window.rb` |
