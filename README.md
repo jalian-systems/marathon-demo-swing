@@ -1,18 +1,16 @@
 # Marathon Swing Demo
 
+## Description
+[Marathon](https://github.com/jalian-systems/marathonv5) is an opensource tool to automate tests for Java Swing&trade; and Java/Fx&trade; applications. This project is a demo project to show capabilities of Marathon test scripts. This demo project can also be used with [MarathonITE](https://marathontesting.com).
 
-
-### Description
-**Marathon Testing** tool is opensource and used to test Java Swing/ Java FX applications.This project is a demo project to test SwingSet3 (Swing Application). Marathon uses Selenium commands for testing the application.
-
-**Marathon Swing Demo** contains list of testcases for each swing component to test using marathon commands and also advanced ways.The test cases are written in Ruby language.
+**Marathon Swing Demo** contains list of testcases for each swing component. The basic scripts are what Marathon generates by using inbuilt recorder. The advanced folder contains scripts that more or less perform the same functions but using Marathon JavaDriver's [Selenium/WebDriver](https://seleniumhq.org) bindings. The test cases are in Ruby language.
 
 ## How to use?
 1. Download zip file or clone the project into a folder.
-2. Download **Marathon** from [here](https://sourceforge.net/projects/marathonman)
-3. Extract the zip into a folder to install. Marathon requires Java 1.8 to run.
+2. If not already installed, Download **Marathon** from [SourceForge Website](https://sourceforge.net/projects/marathonman) and extract the zip into a folder. Marathon requires Java 1.8 to run.
+   <br/>Or<br/> alternatively Download [MarathonITE](https://marathontesting.com) and install the software.
 4. Run the application using **marathon.bat** file for **Windows** and **marathon.sh** for **Linux/mac OS** from terminal.
-5. **Marathon Project Selection** window opens and browse for the marathon-swing-demo project cloned from github.
+5. From the **Marathon Project Selection Window** browse for the marathon-swing-demo project.
 
 ![Marathon Application Screen Shot](swing.png)
 
