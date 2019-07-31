@@ -2,6 +2,8 @@
   "ace-editor": {},
   "workspace": {"state": {"dockables": [
     "Navigator",
+    "TestRunner",
+    "README.md",
     "Results",
     "Log",
     "Output"
@@ -10,11 +12,11 @@
   "display": {
     "iconified": false,
     "maximized": true,
-    "window.w": 1938,
-    "window.x": -9,
-    "window.h": 1050,
+    "window.w": 1920,
+    "window.x": 0,
+    "window.h": 1057,
     "fullScreen": false,
-    "window.y": -9
+    "window.y": 23
   },
   "navigator": {},
   "project": {"fixture": "default"},
@@ -23,7 +25,7 @@
     "marathon.application.vm.arguments": "",
     "marathon.project.launcher.model": "net.sourceforge.marathon.runtime.RuntimeLauncherModel",
     "marathon.application.working.dir": "",
-    "marathon.project.name": "Marathonite Demo",
+    "marathon.project.name": "Marathon Swing Demo",
     "marathon.capture.dir": "%marathon.project.dir%/Modules",
     "allure.tests.management.pattern": "",
     "marathon.application.launchtime": "60000",
@@ -35,7 +37,7 @@
     "marathon.application.java.home": "",
     "marathon.checklist.dir": "%marathon.project.dir%/Checklists",
     "allure.issues.tracker.pattern": "",
-    "marathon.project.script.model": "com.jaliansystems.marathonite.refactor.ruby.MarathonITERubyScriptModel",
+    "marathon.project.script.model": "net.sourceforge.marathon.ruby.RubyScriptModel",
     "marathon.data.dir": "%marathon.project.dir%/TestData",
     "marathon.application.mainclass": "components.Main",
     "marathon.project.description": "",
